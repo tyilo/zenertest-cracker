@@ -118,3 +118,33 @@ Let me know if you would like more details.
 Kind regards,
 Asger Hautop Drewsen
 ```
+
+<hr>
+
+```
+Subject: Re: Hacking the Zener Card Test
+Body:
+
+Hi Asher,
+
+That is fantastic work!
+
+So many ways to be psychic.
+
+Ben, I don’t suggest we change the site at all. We’ll see if anyone else tries to hack the pseudorandom number generator.
+
+Matt
+```
+
+<hr>
+
+```
+Subject: Re: Hacking the Zener Card Test
+Body:
+
+Hi Asger,
+Just wanted to add my thanks for getting in touch with us and carefully explaining your approach. Really thoughtful to also let us filter out your results from the rest! There have been plenty of people trying to crack it...
+You will have noticed that we didn't really think too hard (at first) about securing the process (we were going to use it temporarily for brief activities for schoolchildren). Your exploit has resulted in the highest score (15/25) that I can see so far in the database. My brother has changed the pseudo random generator now - it changed on 24th Sept at 1019, just in case you were curious. Feel free to let us know if you have other insights!
+Best wishes
+Ben
+```
